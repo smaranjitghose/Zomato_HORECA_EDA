@@ -8,4 +8,4 @@ An attempt to experiment with different visualizations for Indian restaurant and
 
 - **Dataset**: Source: [Zomato Cafe Review](https://www.kaggle.com/datasets/juhibhojani/zomato-cafe-reviews) by [Juhi](https://www.linkedin.com/in/juhi-bhojani/)
 
-- [Zomato Cafe Jupyter Notebook]
+- [Zomato Cafe Jupyter Notebook](./notebooks/Zomato_Cafe_WordCloud.ipynb)
